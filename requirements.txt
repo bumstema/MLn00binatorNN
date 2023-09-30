@@ -1,0 +1,11 @@
+matplotlib==3.7.2
+numpy==1.25.2
+pandas==2.1.1
+Pillow==10.0.1
+Pillow==10.0.1
+pyboy==1.5.6
+pytesseract==0.3.12
+scipy==1.11.3
+torch==2.0.0.post2
+torchvision==0.15.2a0
+transformers==4.33.2
