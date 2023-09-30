@@ -1,4 +1,5 @@
 MLn00binatorNN
+==============
 A neural network trained to play emulated games (Pokemon Yellow) using reinforcement Q learning.
 The model uses centered-action-colour images, where each channel (r,g,b) is ihnstead represented by the grayscale screenshot frame of the before-action-after game states.
 
@@ -40,4 +41,5 @@ Tune training loop variables in env.py
 Set learning update parameters in q_agent.py 
 
 Directory variables can be set in const.py
+
 
