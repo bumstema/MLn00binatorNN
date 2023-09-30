@@ -1,6 +1,6 @@
 # MLn00binatorNN
 A neural network trained to play emulated games (Pokemon Yellow) using reinforcement Q learning.
-
+The model uses centered-action-colour images, where each channel is represented by the grayscale screenshot of the before-action-after state.
 
 Rom files are loaded with PyBoy. (not included)
 
