@@ -5,6 +5,7 @@ The model uses centered-action-colour images, where each channel (r,g,b) is ihns
 
 
 ![RunTrainingTrajectories_(level-1_ep_5)](https://github.com/bumstema/MLn00binatorNN/assets/25807978/e24449de-9bb8-4e1d-8879-89a172d8d2a8)
+
 Future states appear blue-shifted and previous states appear red-shifted when interpreted as colour channels.
 The green channel is the frame as the action is happening.
 This animation shows 5 learning episodes, with the truncation goal being set as the staircase in the right top corner.
