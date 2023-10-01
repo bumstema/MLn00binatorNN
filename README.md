@@ -16,7 +16,7 @@ This animation shows 5 learning episodes, with the truncation goal being set as 
 The neural network optimizes the playthrough to minimize the number of frames taken to reach a goal.
 It is designed to facilitate learning a style of gameplay that is reminescent of speed runners.
 
-Rom files are loaded with PyBoy. (not included)
+Rom files (not included) are loaded with PyBoy. 
 
 __`pip install pyboy`__
 
